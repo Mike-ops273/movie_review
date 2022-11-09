@@ -1,0 +1,101 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Titanic",
+      "release": "1997",
+      "director": "James Cameron"
+    },
+    {
+      "id": 2,
+      "title": "The Wizard of Oz",
+      "release": "1939",
+      "director": "Victor Fleming"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "release": "1972",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 4,
+      "title": "The Godfather Part II",
+      "release": "1974",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 5,
+      "title": "The Shawshank Redemption",
+      "release": "1994",
+      "director": "Frank Darabont"
+    },
+    {
+      "id": 6,
+      "title": "Schindler's List",
+      "release": "1993",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 7,
+      "title": "Casablanca",
+      "release": "1942",
+      "director": "Michael Curtiz"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "release": "1994",
+      "director": "Robert Zemeckis"
+    },
+    {
+      "id": 9,
+      "title": "The Silence of the Lambs",
+      "release": "1991",
+      "director": "Jonathan Demme"
+    },
+    {
+      "id": 10,
+      "title": "Apocalypse Now",
+      "release": "1979",
+      "director": "Francis Ford Coppola"
+    }
+  ],
+  "reviews": [
+    {
+      "chosenMovie": "The Shawshank Redemption",
+      "author": "wdwd",
+      "comment": "wddw",
+      "rating": "3",
+      "id": 1
+    },
+    {
+      "chosenMovie": "The Shawshank Redemption",
+      "author": "wdwd",
+      "comment": "wdwd",
+      "rating": "2",
+      "id": 2
+    },
+    {
+      "chosenMovie": "Schindler's List",
+      "author": "wdwd",
+      "comment": "wdwd",
+      "rating": "2",
+      "id": 3
+    },
+    {
+      "chosenMovie": "Titanic",
+      "author": "wd",
+      "comment": "wd",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "chosenMovie": "The Shawshank Redemption",
+      "author": "yg",
+      "comment": "yg",
+      "rating": "3",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "reviews": [
+    {
+      "chosenMovie": "Titanic",
+      "author": "bob",
+      "comment": "wow",
+      "rating": "1",
+      "id": 1
+    },
+    {
+      "chosenMovie": "The Wizard of Oz",
+      "author": "max",
+      "comment": "nice",
+      "rating": "1",
+      "id": 2
+    },
+    {
+      "chosenMovie": "The Shawshank Redemption",
+      "author": "tony",
+      "comment": "test",
+      "rating": "5",
+      "id": 3
+    }
+  ]
+}
